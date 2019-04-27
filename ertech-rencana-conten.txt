@@ -2,3 +2,6 @@ Rencana Konten
 -harus matang javascrip dom dan jquery
 -javascript es6 framework javascript
 -struktur data dasar
+-belahjar view
+-pytton
+-react js
