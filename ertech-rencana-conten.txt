@@ -1,0 +1,2 @@
+Rencana Konten
+-harus matang javascrip dom dan jquery
