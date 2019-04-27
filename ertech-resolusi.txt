@@ -1,0 +1,6 @@
+Ertech Resolusi :
+- menguasai PHP, HTML, Java Script, CSS, Bootstrap, Materialize,jquery
+- menguasai codeigneiter
+- menguasai android, kotlin,phonegapp,android studio
+- belajar laravel
+- buat web dan aplikasi sendiri
