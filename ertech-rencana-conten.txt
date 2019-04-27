@@ -1,4 +1,6 @@
 Rencana Konten
 -harus matang javascrip dom dan jquery
 -javascript es6 framework javascript
--struktur data dasar
+-angular
+-react
+-laravel
