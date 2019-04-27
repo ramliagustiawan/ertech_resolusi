@@ -4,3 +4,5 @@ Ertech Resolusi :
 - menguasai android, kotlin,phonegapp,android studio
 - belajar laravel
 - buat web dan aplikasi sendiri
+- membuat android aplikasi
+
